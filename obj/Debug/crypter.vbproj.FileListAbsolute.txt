@@ -1,0 +1,10 @@
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\bin\Debug\crypter.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\bin\Debug\crypter.pdb
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\bin\Debug\crypter.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.Form1.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.Resources.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.vbproj.GenerateResource.Cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\crypter\obj\Debug\crypter.pdb
